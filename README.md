@@ -1,8 +1,9 @@
 ### Hi! I'm Divya! 👋
-###________________
+### ________________
 
 - BCA Student
-- Focussing on problem solving skills
+- A Passionate self-learner.
+- Focussing on problem solving skills.
 - Goal:- To code everyday.
 
 
