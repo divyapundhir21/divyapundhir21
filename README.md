@@ -1,8 +1,8 @@
-<h2> Hi! I'm Divya!</h2>
+<h2> Hi! I'm Divya Pundhir.</h2>
 <h3>Struggling with consistency. Will surely achieve it one day! ❤️</h3>
 
-- BCA Student
-- PM College Of Education, Aligarh
+- M. Tech Student
+- BITS Pilani
 - A Passionate self-learner.
 - Focussing on problem solving skills.
 - Goal:- To code everyday.
