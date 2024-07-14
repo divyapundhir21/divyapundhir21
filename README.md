@@ -6,5 +6,5 @@
 - A Passionate self-learner.
 - Focussing on problem solving skills.
 - Goal:- To code everyday.
-- How to reach me - <a href="https://twitter.com/divyapundhir21"> Twitter </a> <a href="https://www.linkedin.com/in/divyapundhir/"> LinkedIn </a>
+- How to reach me - <a href="https://twitter.com/divyapundhir21"> Twitter </a> or <a href="https://www.linkedin.com/in/divyapundhir/"> LinkedIn </a>
 
