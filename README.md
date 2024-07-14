@@ -1,5 +1,5 @@
 <h2> Hi! I'm Divya Pundhir.</h2>
-<h3>"Passionate about coding and driven by innovation – dive into my GitHub projects!" ❤️</h3>
+<h3>Passionate coder focused on innovation – check out my GitHub projects! ❤️</h3>
 
 - M. Tech Student
 - BITS Pilani
