@@ -15,12 +15,20 @@
 ### 💫 About Me:
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="60%">
       <p>💼 <strong>Senior Software Engineer</strong> with 4+ years of enterprise experience at <strong>Wipro</strong></p>
       <p>🎓 <strong>M.Tech </strong> from <strong>BITS Pilani</strong>, specializing in advanced software systems</p>
       <p>🚀 <strong>Expertise in Full-Stack .NET Ecosystem</strong>, distributed architectures, and scalable REST APIs</p>
       <p>🔥 <strong>Active Problem Solver</strong> on LeetCode focusing on advanced data structures and algorithms</p>
       <p>📫 Reach me at: <a href="mailto:divyapundhir21@gmail.com"><strong>divyapundhir21@gmail.com</strong></a></p>
+    </td>
+     <td width="40%" align="center" valign="middle">
+      <h3>📺 Connect with me on YouTube</h3>
+      <p>Join the community for tutorials, coding insights, and tech content!</p>
+      <br/>
+      <a href="https://www.youtube.com/@CodersCommunity" target="_blank">
+        <img src="https://img.shields.io/badge/Subscribe%20To-Coders%20Community-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45" alt="YouTube Channel"/>
+      </a>
     </td>
   </tr>
 </table>
