@@ -29,25 +29,17 @@
 
 ### 🛠️ Tech Stack & Tools:
 
-#### 🖥️ Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
+#### 🖥️ Backend Development
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Web API](https://img.shields.io/badge/REST%20WEB%20API-009688?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### 🗄️ Database & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
-</p>
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ⚙️ DevOps & Engineering Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman" />
-</p>
+#### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## 📊 Performance Metrics
 
