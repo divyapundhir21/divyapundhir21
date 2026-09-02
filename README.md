@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3E92CC&size=30&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+.NET+Developer+💻;M.Tech+@+BITS+Pilani+🎓;4++Years+Experience+@+Wipro+💼;Building+Scalable+Enterprise+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3E92CC&size=30&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+.NET+Developer+💻;M.Tech+@+BITS+Pilani+🎓;5+Years+Experience+@+Wipro+💼;Building+Scalable+Enterprise+Solutions+🚀" />
 </h1>
 
 <p align="center">
