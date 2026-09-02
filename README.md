@@ -16,7 +16,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>💼 <strong>Senior Software Engineer</strong> with 4+ years of enterprise experience at <strong>Wipro</strong></p>
+      <p>💼 <strong>Senior Software Engineer</strong> with 5+ years of enterprise experience at <strong>Wipro</strong></p>
       <p>🎓 <strong>M.Tech </strong> from <strong>BITS Pilani</strong>, specializing in advanced software systems</p>
       <p>🚀 <strong>Expertise in Full-Stack .NET Ecosystem</strong>, distributed architectures, and scalable REST APIs</p>
       <p>🔥 <strong>Active Problem Solver</strong> on LeetCode focusing on advanced data structures and algorithms</p>
